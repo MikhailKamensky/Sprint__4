@@ -13,7 +13,6 @@ public class FirstOrderForm {
 
     private WebDriver driver;
 
-    //локаторы
 
     private By firstOrderPage = By.xpath(".//div[@class='Order_Content__bmtHS']");
     private By firstName = By.xpath(".//input[@placeholder = '* Имя']");
